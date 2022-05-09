@@ -1,0 +1,58 @@
+.navbar {
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+  padding: 0.9rem !important;
+  background-color: white !important;
+  -webkit-box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+          box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+  position: relative;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 0;
+  padding: 50px;
+}
+
+.changecontainer {
+  font-size: 1rem;
+  line-height: 1.5;
+  padding: 48px 16px 24px 16px;
+}
+
+.containerwidth {
+  max-width: 1040px;
+}
+
+.cardsize {
+  width: 325px;
+  margin: 0px 15px 24px 15px;
+}
+
+.btn-size {
+  width: 100%;
+}
+
+.footercontainer {
+  border-top: 1px solid gainsboro;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 3rem !important;
+  margin-bottom: 3rem !important;
+  margin-top: 3rem !important;
+}
+
+.logo {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.row {
+  width: 100%;
+}
+
+.list-unstyled a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
